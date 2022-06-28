@@ -1,0 +1,9 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	"184,459"	Đạo Hương Thôn	12	yellow	yellowpoint.spr	"184,447"
+2	"812,398"	Thục Cương Sơn [cấp 75]	12	yellow	yellowpoint.spr	"812,386"
+3	"0,0"	Khổ Công	18	red		"300,370"
+4	"0,0"	Bang Chúng Bắc Mã	18	red		"645,380"
+5	"0,0"	Bang Chúng Diêm Bang	18	red		"300,180"
+6	"70,234"	Thục Cương Bí Cảnh [cấp 95]	12	yellow	yellowpoint.spr	"70,222"
+7	"830,74"	Lương Sơn Bạc [cấp 115]	12	yellow	icon_northeast.spr	"830,60"
+1	0,0	HẠT HUY HOÀNG	12	gold	yellowpoint.spr	328,150

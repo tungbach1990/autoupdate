@@ -1,0 +1,7 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	0,0	LONG TRỤ	12	yellow	yellowpoint.spr	602,298
+54	"659,184"	Xa phu	13	yellow	yellowpoint.spr	"659,174"
+40	249,116	Cổng 1	12	yellow	icon_southeast.spr	249,96
+40	867,156	Cổng 2	12	yellow	icon_southwest.spr	867,136
+40	285,423	Cổng 3	12	yellow	icon_northeast.spr	285,440
+40	810,450	Cổng 4	12	yellow	icon_northwest.spr	810,460

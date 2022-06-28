@@ -1,0 +1,47 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	235,228	Binh Khí	12	yellow	yellowpoint.spr	235,216
+2	276,204	Phòng Cụ	12	yellow	yellowpoint.spr	276,192
+3	341,254	Trang Sức	12	yellow	yellowpoint.spr	341,242
+4	405,210	Thuốc	12	yellow	yellowpoint.spr	405,198
+5	433,210	Tạp Hóa	12	yellow	yellowpoint.spr	439,198
+6	467,222	Tửu Lầu	12	yellow	yellowpoint.spr	467,210
+7	357,318	Gỗ	12	yellow	yellowpoint.spr	350,306
+8	279,278	Da	12	yellow	yellowpoint.spr	279,266
+9	210,212	Tiền Trang	12	yellow	yellowpoint.spr	210,200
+10	358,232	Bao Vạn Đồng	12	yellow	yellowpoint.spr	358,220
+11	313,102	Diệp Chỉ Lâm	12	yellow	yellowpoint.spr	313,90
+12	399,258	Bạch Thu Lâm	12	yellow	yellowpoint.spr	399,246
+13	432,238	Long Ngũ Thái Gia	12	yellow	yellowpoint.spr	432,226
+14	395,172	Thiếu Lâm	12	yellow	yellowpoint.spr	395,160
+15	440,166	Thiên Vương	12	yellow	yellowpoint.spr	440,154
+16	403,138	Đường Môn	12	yellow	yellowpoint.spr	403,126
+17	457,138	Ngũ Độc	12	yellow	yellowpoint.spr	457,126
+18	519,148	Nga My	12	yellow	yellowpoint.spr	519,136
+19	559,180	Thúy Yên	12	yellow	yellowpoint.spr	559,168
+20	616,190	Cái Bang	12	yellow	yellowpoint.spr	616,178
+21	582,230	Thiên Nhẫn	12	yellow	yellowpoint.spr	582,218
+22	645,248	Võ Đang	12	yellow	yellowpoint.spr	645,236
+23	614,262	Côn Lôn	12	yellow	yellowpoint.spr	614,250
+24	626,328	Dương Châu Phủ	12	yellow	icon_southeast.spr	626,314
+25	500,418	Cái Bang	12	yellow	icon_southeast.spr	500,404
+26	180,132	Mai Hoa Lĩnh [cấp 5]	12	yellow	icon_northwest.spr	180,118
+27	225,430	Hoài Thủy Sa Châu [cấp 15]	12	yellow	icon_southwest.spr	225,416
+28	237,317	Dã Luyện Đại Sư	12	yellow	yellowpoint.spr	237,305
+29	471,266	Lễ Quan	12	yellow	yellowpoint.spr	471,254
+30	400,328	Thủ Khố	12	yellow	yellowpoint.spr	405,316
+31	316,200	Thủ Khố	12	yellow	yellowpoint.spr	328,188
+32	693,174	Tiến Cúc Động [cấp 85]	12	yellow	yellowpoint.spr	693,160
+33	425,338	Xa Phu	12	yellow	yellowpoint.spr	437,328
+34	274,164	Xa Phu	12	yellow	yellowpoint.spr	274,152
+35	597,276	Đoàn Thị	12	yellow	yellowpoint.spr	587,264
+36	558,297	Minh Giáo	12	yellow	yellowpoint.spr	558,285
+37	414,286	Sứ Giả Hoạt Động	12	yellow	yellowpoint.spr	414,273
+38	347,284	Thương Nhân Đặc Sản	12	yellow	yellowpoint.spr	347,272
+39	575,74	Thục Cương Bí Cảnh [cấp 95]	12	yellow	icon_north.spr	575,60
+40	331,364	Truyền Tống Quân Doanh	12	yellow	yellowpoint.spr	331,352
+41	269,350	Án Nhược Tuyết	12	yellow	yellowpoint.spr	269,340
+42	318,458	Tần Oa	12	yellow	yellowpoint.spr	318,446
+43	480,185	Gia tộc chiêu mộ sứ	12	yellow	yellowpoint.spr	480,172
+44	0,0	KHU TÀI NGUYÊN	12	purple	yellowpoint.spr	406,423
+44	0,0	KHU TÀI NGUYÊN	12	purple	yellowpoint.spr	508,358
+44	0,0	KHU TÀI NGUYÊN	12	purple	yellowpoint.spr	569,327

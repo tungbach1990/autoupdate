@@ -1,0 +1,10 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	"55,364"	Cư Diên Trạch [cấp 65]	12	yellow	icon_west.spr	"55,350"
+2	"78,700"	Phượng Tường Phủ	12	yellow	icon_southwest.spr	"78,684"
+3	"680,624"	Phong Lăng Độ [cấp 75]	12	yellow	icon_southeast.spr	"680,612"
+4	"690,286"	Hoàng Lăng Tây Hạ [cấp 85]	12	yellow	yellowpoint.spr	"690,274"
+5	"0,0"	Thần Tí Cung	18	red		"570,540"
+6	"0,0"	Hắc Thủy Khoái Kỵ Binh	18	red		"180,540"
+7	"0,0"	Mã Tặc Khinh Phủ Thủ	18	red		"200,200"
+8	"694,79"	Mông Cổ Vương Đình [cấp 115]	12	yellow	icon_northeast.spr	"694,65"	
+1	0,0	HẠT HUY HOÀNG	12	gold	yellowpoint.spr	424,502

@@ -1,0 +1,238 @@
+ID	ImageName	Des
+1	image\effect\other\guanxian_title_1a_vn.spr	Trí Sự
+2	image\effect\other\guanxian_title_2a_vn.spr	Tư Mã
+3	image\effect\other\guanxian_title_3a_vn.spr	Thái Thú
+4	image\effect\other\guanxian_title_4a_vn.spr	Thiếu Khanh
+5	image\effect\other\guanxian_title_5a_vn.spr	Thượng Khanh
+6	image\effect\other\guanxian_title_6a_vn.spr	Quốc Công
+7	image\effect\other\guanxian_title_7a_vn.spr	Thừa Tướng
+8	image\effect\other\guanxian_title_8a_vn.spr	Hoàng Đế
+9	image\effect\other\tianxiadiyi_zhang_vn.spr	vnThiên Hạ Đệ Nhất Chưởng
+10	image\effect\other\tianxiadiyi_jian_vn.spr	vnThiên Hạ Đệ Nhất Kiếm
+11	image\effect\other\tianxiadiyi_dao_vn.spr	vnThiên Hạ Đệ Nhất Đao
+12	image\effect\other\tianxiadiyi_gun_vn.spr	vnThiên Hạ Đệ Nhất Côn
+13	image\effect\other\tianxiadiyi_qiang_vn.spr	vnThiên Hạ Đệ Nhất Thương
+14	image\effect\other\tianxiadiyi_chui_vn.spr	vnThiên Hạ Nhất Phi Đao
+15	image\effect\other\tianxiadiyi_feidao_vn.spr	vnThiên Hạ Đệ Nhất Chưởng
+16	image\effect\other\tianxiadiyi_xiujian_vn.spr	vnThiên Hạ Nhất Tu Tiễn
+17	image\effect\other\vn_feilongchengzhu.spr	vn Phi Long Thành Chủ
+18	image\effect\other\vn_feilongjiang.spr	vn Phi Long Tướng
+19	image\DanhKiem\Title\vn_nhatbangchu.spr	vn Nhất Bang Chủ
+20	image\DanhKiem\Title\vn_denhatbang.spr	vn Đệ Nhất Bang
+21	image\title\KiemTheLocPhat\ketlieuboss.spr	vn Kết Liễu BOSS
+22	image\DanhKiem\Title\KyBinh.spr	vn Kết Liễu BOSS
+23	image\title\TieuTrang.spr	vn Tiêu Xa Trắng
+24	image\title\TieuLuc.spr	vn Tiêu Xa Lục
+25	image\title\TieuLam.spr	vn Tiêu Xa Lam
+26	image\title\TieuTim.spr	vn Tiêu Xa Tím
+27	image\title\TieuVang.spr	vn Tiêu Xa Cam
+28	image\title\congthanh\VLChiTon.spr	vn Tiêu Xa Cam
+29	image\title\congthanh\VLKietXuat.spr	vn Tiêu Xa Cam
+30	image\DHVip218\vip1.spr	vn VIP 1
+31	image\DHVip218\vip2.spr	vn VIP 2
+32	image\DHVip218\vip3.spr	vn VIP 3
+33	image\DHVip218\vip4.spr	vn VIP 4
+34	image\DHVip218\vip5.spr	vn VIP 5
+35	image\DHVip218\vip6.spr	vn VIP 6
+36	image\DHVip218\vip7.spr	vn VIP 7
+37	image\DHVip218\vip8.spr	vn VIP 8
+38	image\DHVip218\vip9.spr	vn VIP 9
+39	image\DHVip218\vip10.spr	vn VIP 10
+40	image\DHVip218\DeNhatHaoKiet.spr	vn Đệ Nhất Hào Kiệt
+41	image\DHVip218\DeNhiHaoKiet.spr	vn Đệ Nhị Hào Kiệt
+42	image\DHVip218\DeTamHaoKiet.spr	vn Đệ Tam Hào Kiệt
+43	image\DHVip218\DeTuHaoKiet.spr	vn Đệ Tứ Hào Kiệt
+44	image\DHVip218\HaoKietGiangHo.spr	vn Giang Hồ Hào Kiệt
+45	image\DHVip218\ThienHaDeNhatAH.spr	vn Đệ Nhất Anh Hùng
+46	image\DHVip218\THDNB.spr	vn Thiên Hạ Đệ Nhất Bang
+47	image\DHVip218\THDNhiB.spr	vn Thiên Hạ Đệ Nhị Bang
+48	image\DHVip218\THDNhiB.spr	vn Thiên Hạ Đệ Nhị Bang
+49	image\Update2016\ThanhDong.spr	vn Bậc Đấu Thanh Đồng
+50	image\Update2016\BachNgan.spr	vn Bậc Đấu Bạch Ngân
+51	image\Update2016\HoangKim.spr	vn Bậc Đấu Bạch Kim
+52	image\Update2016\BachKim.spr	vn Bậc Đấu Hoàng Kim
+53	image\Update2016\KimCuong.spr	vn Bậc Đấu Kim Cương
+54	image\Update2016\Test\ChuaDung.spr	vn 22
+55	image\Update2016\Test\ChuaDung.spr	vn 22
+56	image\Update2016\Test\ChuaDung.spr	vn 22
+57	image\Update2016\Test\ChuaDung.spr	vn 22
+58	image\Update2016\Test\ChuaDung.spr	vn 22
+59	image\Update2016\Test\ChuaDung.spr	vn 22
+60	image\Update2016\Test\ChuaDung.spr	vn 22
+61	image\Update2016\ChucVi\1.spr	vn Chức Vị
+62	image\Update2016\ChucVi\2.spr	vn Chức Vị
+63	image\Update2016\ChucVi\3.spr	vn Chức Vị
+64	image\Update2016\ChucVi\4.spr	vn Chức Vị
+65	image\Update2016\ChucVi\5.spr	vn Chức Vị
+66	image\Update2016\ChucVi\6.spr	vn Chức Vị
+67	image\Update2016\ChucVi\7.spr	vn Chức Vị
+68	image\Update2016\ChucVi\8.spr	vn Chức Vị
+69	image\Update2016\ChucVi\9.spr	vn Chức Vị
+70	image\Update2016\ChucVi\10.spr	vn Chức Vị
+71	image\Update2016\ChucVi\11.spr	vn Chức Vị
+72	image\Update2016\ChucVi\12.spr	vn Chức Vị
+73	image\Update2016\ChucVi\13.spr	vn Chức Vị
+74	image\Update2016\ChucVi\14.spr	vn Chức Vị
+75	image\Update2016\ChucVi\15.spr	vn Chức Vị
+76	image\Update2016\ChucVi\16.spr	vn Chức Vị
+77	image\Update2016\ChucVi\17.spr	vn Chức Vị
+78	image\Update2016\ChucVi\18.spr	vn Chức Vị
+79	image\Update2016\ChucVi\19.spr	vn Chức Vị
+80	image\Update2016\ChucVi\20.spr	vn Chức Vị
+81	image\Update2016\ChucVi\21.spr	vn Chức Vị
+82	image\Update2016\ChucVi\22.spr	vn Chức Vị
+83	image\Update2016\ChucVi\23.spr	vn Chức Vị
+84	image\Update2016\ChucVi\24.spr	vn Chức Vị
+85	image\Update2016\ChucVi\25.spr	vn Chức Vị
+86	image\Update2016\ChucVi\26.spr	vn Chức Vị
+87	image\Update2016\ChucVi\27.spr	vn Chức Vị
+88	image\Update2016\ChucVi\28.spr	vn Chức Vị
+89	image\Update2016\ChucVi\29.spr	vn Chức Vị
+80	image\Update2016\ChucVi\30.spr	vn Chức Vị
+91	image\Update2016\ChucVi\31.spr	vn Chức Vị
+92	image\Update2016\ChucVi\32.spr	vn Chức Vị
+93	image\Update2016\ChucVi\33.spr	vn Chức Vị
+94	image\Update2016\ChucVi\34.spr	vn Chức Vị
+95	image\Update2016\ChucVi\35.spr	vn Chức Vị
+96	image\Update2016\ChucVi\36.spr	vn Chức Vị
+97	image\Update2016\ChucVi\37.spr	vn Chức Vị
+98	image\Update2016\ChucVi\38.spr	vn Chức Vị
+99	image\Update2016\ChucVi\39.spr	vn Chức Vị
+90	image\Update2016\ChucVi\40.spr	vn Chức Vị
+101	image\Update2016\ChucVi\41.spr	vn Chức Vị
+102	image\Update2016\ChucVi\42.spr	vn Chức Vị
+103	image\Update2016\ChucVi\43.spr	vn Chức Vị
+104	image\Update2016\ChucVi\44.spr	vn Chức Vị
+105	image\Update2016\ChucVi\45.spr	vn Chức Vị
+106	image\Update2016\ChucVi\46.spr	vn Chức Vị
+107	image\Update2016\ChucVi\47.spr	vn Chức Vị
+108	image\Update2016\ChucVi\48.spr	vn Chức Vị
+109	image\Update2016\ChucVi\49.spr	vn Chức Vị
+110	image\Update2016\ChucVi\50.spr	vn Chức Vị
+111	image\Update2016\ChucVi\51.spr	vn Chức Vị
+112	image\Update2016\ChucVi\52.spr	vn Chức Vị
+113	image\Update2016\ChucVi\53.spr	vn Chức Vị
+114	image\Update2016\ChucVi\54.spr	vn Chức Vị
+115	image\Update2016\ChucVi\55.spr	vn Chức Vị
+116	image\Update2016\ChucVi\56.spr	vn Chức Vị
+117	image\Update2016\ChucVi\57.spr	vn Chức Vị
+118	image\Update2016\ChucVi\58.spr	vn Chức Vị
+119	image\Update2016\ChucVi\59.spr	vn Chức Vị
+120	image\Update2016\ChucVi\60.spr	vn Chức Vị
+121	image\Update2016\DuaTOP\Hang1.spr	vn Hạng 1
+122	image\Update2016\ThongThuong\SieuPham.spr	vn Hạng 1
+123	image\Update2016\ThongThuong\LangTuyet.spr	vn Hạng 1
+124	image\Update2016\ThongThuong\NguKhong.spr	vn Hạng 1
+125	image\Update2016\ThongThuong\ChiTon.spr	vn Hạng 1
+126	image\Update2016\ThongThuong\VoSong.spr	vn Hạng 1
+127	image\title\faction\TNVThieuLam.spr	Danh hiệu TNV Ngũ Độc
+128	image\title\faction\TNVThienVuong.spr	Danh hiệu TNV Ngũ Độc
+129	image\title\faction\TNVDuongMon.spr	Danh hiệu TNV Ngũ Độc
+130	image\title\faction\TNVNguDoc.spr	Danh hiệu TNV Ngũ Độc
+131	image\title\faction\TNVNgaMy.spr	Danh hiệu TNV Ngũ Độc
+132	image\title\faction\TNVThuyYen.spr	Danh hiệu TNV Ngũ Độc
+133	image\title\faction\TNVCaiBang.spr	Danh hiệu TNV Ngũ Độc
+134	image\title\faction\TNVThienNhan.spr	Danh hiệu TNV Ngũ Độc
+135	image\title\faction\TNVVoDang.spr	Danh hiệu TNV Ngũ Độc
+136	image\title\faction\TNVConLon.spr	Danh hiệu TNV Ngũ Độc
+137	image\title\faction\TNVMinhGiao.spr	Danh hiệu TNV Ngũ Độc
+138	image\title\faction\TNVDoanThi.spr	Danh hiệu TNV Ngũ Độc
+139	image\title\faction\DeNhatKim.spr	Danh hiệu TNV Ngũ Độc
+140	image\title\faction\DeNhatMoc.spr	Danh hiệu TNV Ngũ Độc
+141	image\title\faction\DeNhatThuy.spr	Danh hiệu TNV Ngũ Độc
+142	image\title\faction\DeNhatHoa.spr	Danh hiệu TNV Ngũ Độc
+143	image\title\faction\DeNhatTho.spr	Danh hiệu TNV Ngũ Độc
+144	image\title\tongkim\TongSiBinh.spr	Danh hiệu Tống Kim
+145	image\title\tongkim\TongHieuUy.spr	Danh hiệu Tống Kim
+146	image\title\tongkim\TongThongLinh.spr	Danh hiệu Tống Kim
+147	image\title\tongkim\TongPhoTuong.spr	Danh hiệu Tống Kim
+148	image\title\tongkim\TongDaiTuong.spr	Danh hiệu Tống Kim
+149	image\title\tongkim\TongNguyenSoai.spr	Danh hiệu Tống Kim
+150	image\title\tongkim\KimSiBinh.spr	Danh hiệu Tống Kim
+151	image\title\tongkim\KimHieuUy.spr	Danh hiệu Tống Kim
+152	image\title\tongkim\KimThongLinh.spr	Danh hiệu Tống Kim
+153	image\title\tongkim\KimPhoTuong.spr	Danh hiệu Tống Kim
+154	image\title\tongkim\KimDaiTuong.spr	Danh hiệu Tống Kim
+155	image\title\tongkim\KimNguyenSoai.spr	Danh hiệu Tống Kim
+156	image\title\faction\DSHThieuLam.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+157	image\title\faction\DSTThieuLam.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+158	image\title\faction\DSHThienVuong.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+159	image\title\faction\DSTThienVuong.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+160	image\title\faction\DSHDuongMon.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+161	image\title\faction\DSTDuongMon.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+162	image\title\faction\DSHNguDoc.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+163	image\title\faction\DSTNguDoc.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+164	image\title\faction\DSHNgaMy.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+165	image\title\faction\DSTNgaMy.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+166	image\title\faction\DSHThuyYen.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+167	image\title\faction\DSTThuyYen.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+168	image\title\faction\DSHCaiBang.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+169	image\title\faction\DSTCaiBang.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+170	image\title\faction\DSHThienNhan.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+171	image\title\faction\DSTThienNhan.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+172	image\title\faction\DSHVoDang.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+173	image\title\faction\DSTVoDang.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+174	image\title\faction\DSHConLon.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+175	image\title\faction\DSTConLon.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+176	image\title\faction\DSHMinhGiao.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+177	image\title\faction\DSTMinhGiao.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+178	image\title\faction\DSHDoanThi.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+179	image\title\faction\DSTDoanThi.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+180	image\title\hieplu\HiepLuMale.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+181	image\title\hieplu\HiepLuFemale.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+182	image\title\congthanh\DeNhatBangChu.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+183	image\title\congthanh\DeNhatBang.spr	Danh hiệu Đại Sư Huynh - Sư Tỷ
+184	image\QuanHam\KinhHong.spr	Danh hiệu Quân Hàm Kinh Hồng
+185	image\QuanHam\LangVan.spr	Danh hiệu Quân Hàm Kinh Hồng
+186	image\QuanHam\TiemLong.spr	Danh hiệu Quân Hàm Kinh Hồng
+187	image\QuanHam\NgaoThe.spr	Danh hiệu Quân Hàm Kinh Hồng
+188	image\QuanHam\YThien.spr	Danh hiệu Quân Hàm Kinh Hồng
+189	image\QuanHam\ChiTon.spr	Danh hiệu Quân Hàm Kinh Hồng
+190	image\QuanHam\VoThanh.spr	Danh hiệu Quân Hàm Kinh Hồng
+191	image\QuanHam\VoSong.spr	Danh hiệu Quân Hàm Kinh Hồng
+192	image\QuanHam\TruyenThuyet.spr	Danh hiệu Quân Hàm Kinh Hồng
+193	image\QuanHam\ThanThoai.spr	Danh hiệu Quân Hàm Kinh Hồng
+194	image\title\tongkim\chienquocnguyensoai.spr	Danh hiệu Quân Hàm Kinh Hồng
+195	image\title\tichluynapthe\taitrodong.spr	Danh hiệu Nhà Tài Trợ Đồng
+196	image\title\tichluynapthe\taitrobac.spr	Danh hiệu Nhà Tài Trợ Bạc
+197	image\title\tichluynapthe\taitrovang.spr	Danh hiệu Nhà Tài Trợ Vàng
+198	image\title\tichluynapthe\taitrobachkim.spr	Danh hiệu Nhà Tài Trợ Bạch Kim
+199	image\title\tichluynapthe\thanhvienthanthiet.spr	Thành viên thân thiết
+200	image\title\tichluynapthe\taitrokimcuong.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+201	image\title\bxh\QuanQuan.spr	Danh hiệu Quán Quân
+202	image\title\bxh\AQuan.spr	Danh hiệu Á Quân
+203	image\title\bxh\ThienTu.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+204	image\title\bxh\FanCung.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+205	image\title\caothuvolam.spr	Danh hiệu Anh hùng thiên hạ
+206	image\title\caothuxuatson.spr	Danh hiệu Anh hùng thiên hạ
+207	image\title\cuunguchiton.spr	Danh hiệu Anh hùng thiên hạ
+208	image\title\ChiTacHanhThien.spr	Danh hiệu Anh hùng thiên hạ
+209	image\title\danhdauthangdo.spr	Danh hiệu Anh hùng thiên hạ
+210	image\title\DocBaThienTon.spr	Danh hiệu Anh hùng thiên hạ
+211	image\title\GiangLongTaiThe.spr	Danh hiệu Anh hùng thiên hạ
+212	image\title\hanhhiepgiangho.spr	Danh hiệu Anh hùng thiên hạ
+213	image\title\HungBaThienHa.spr	Danh hiệu Anh hùng thiên hạ
+214	image\title\sangbangtatca.spr	Danh hiệu Anh hùng thiên hạ
+215	image\title\t_satphathien.spr	Danh hiệu Anh hùng thiên hạ
+216	image\title\t_thienhavosong.spr	Danh hiệu Anh hùng thiên hạ
+217	image\title\Title_ThienHaDeNhatLanhDia.spr	Danh hiệu Anh hùng thiên hạ
+218	image\title\Title_UyDanhTuPhuong.spr	Danh hiệu Anh hùng thiên hạ
+219	image\title\thienhadenhat.spr	Danh hiệu Anh hùng thiên hạ
+220	image\title\danhhieu\MinhChu.spr	Minh Chủ Võ Lâm
+221	image\title\tichluynapthe\KimCuong1.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+222	image\title\tichluynapthe\KimCuong2.spr	Kim Cương
+223	image\title\tichluynapthe\KimCuong3.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+224	image\title\tichluynapthe\KimCuong4.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+225	image\title\bxh\TanThu.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+226	image\title\bxh\DeNhatTaiPhu.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+227	image\title\bxh\DeNhiTaiPhu.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+228	image\title\bxh\DeTamTaiPhu.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+229	image\title\bxh\DeNhatVoLam.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+230	image\title\bxh\DeNhiVoLam.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+231	image\title\bxh\DeTamVoLam.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+232	image\title\bxh\DeNhatThuLinh.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+233	image\title\bxh\DeNhiThuLinh.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+234	image\title\bxh\DeTamThuLinh.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+235	image\title\bxh\DeNhatUyDanh.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+236	image\title\bxh\DeNhiUyDanh.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+237	image\title\bxh\DeTamUyDanh.spr	Danh hiệu Nhà Tài Trợ Kim Cương

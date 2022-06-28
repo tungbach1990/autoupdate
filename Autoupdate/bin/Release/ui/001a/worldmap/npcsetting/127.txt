@@ -1,0 +1,3 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	"82,370"	Miêu Lĩnh [cấp 95]	12	yellow	icon_northwest.spr	"82,356"
+1	0,0	HẠT HUY HOÀNG	12	gold	yellowpoint.spr	186,144

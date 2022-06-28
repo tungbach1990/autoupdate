@@ -1,0 +1,9 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	"736,184"	Phục Ngưu Sơn [cấp 65]	12	yellow	icon_northeast.spr	"733,170"
+2	"116,75"	Tương Dương Phủ	12	yellow	icon_northwest.spr	"115,60"
+3	"817,634"	Hoàng Hạc Lâu [cấp 85]	12	yellow	icon_east.spr	"812,620"
+4	"0,0"	Đà Thủ Tào Bang	18	red		"180,465"
+5	"0,0"	Thủ Lĩnh Tào Bang	18	red		"390,700"
+6	"0,0"	Quan Binh Tương Dương	18	red		"490,315"
+7	"244,742"	Thần Nữ Phong [cấp 115]	12	yellow	icon_south.spr	"244,728"
+1	0,0	HẠT HUY HOÀNG	12	gold	yellowpoint.spr	225,250

@@ -1,0 +1,41 @@
+nId	MapType	ForbiddenUse	ForbiddenCallIn	ForbiddenCallOut	OnSwitch	Info
+1	Loại bản đồ	Loại vật phẩm cấm dùng	Cấm triệu hồi vào, truyền vào	Cấm bị triệu hồi ra	Trạng thái bản đồ (vào và ra)	Ghi chú
+2	village				FIGHTSTATE_OFF|TEAM_ON	Tân Thủ Thôn
+3	faction				FIGHTSTATE_OFF|TEAM_ON	Phái
+4	city				FIGHTSTATE_OFF|TEAM_ON	Thành
+5	fight				FIGHTSTATE_ON	Khu chiến đấu (khu luyện công)
+6	taskfight					Bản đồ chiến đấu nhiệm vụ
+7	tasksafe					Bản đồ phi chiến đấu nhiệm vụ
+8	xisuidao		chuansong	chuansong	FIGHTSTATE_OFF	Tẩy Tủy Đảo
+9	xisuidao_shandong		chuansong	chuansong	FIGHTSTATE_ON	Tẩy Tủy Đảo Sơn Động
+10	battle_signup	MAIL	chuansong		FIGHTSTATE_OFF	Bản đồ Báo Danh Tống Kim
+11	battle	revive|MAIL	chuansong	chuansong		Bản đồ Tống Kim chiến
+12	dalao		chuansong	chuansong	FIGHTSTATE_OFF	Đại Lao
+13	baihutang		chuansong	chuansong		Bạch Hổ Đường
+14	factionbattle	revive	chuansong	chuansong		Thi đấu môn phái
+15	common_fb		chuansong	chuansong	FIGHTSTATE_ON	Bản đồ thường (phó bản)
+16	shenmibaoku_fb		chuansong	chuansong		Thần Bí Bảo Khố Ải Gia Tộc
+17	leitai		chuansong	chuansong		Lôi Đài
+18	tasktip		chuansong		FIGHTSTATE_ON	Cấm đồng đội triệu hồi vào
+19	tasktip		chuansong		FIGHTSTATE_ON	Bản đồ nhiệm vụ (549-552)
+20	taskarmy_fb		chuansong	chuansong	FIGHTSTATE_ON	Nhiệm vụ phó bản (Hậu Sơn Phục Ngưu)
+21	xoyogame		chuansong	chuansong	FIGHTSTATE_OFF	Tiêu Dao Cốc
+22	taskarmy		chuansong		FIGHTSTATE_OFF	Bản đồ quân doanh
+23	liansai	revive|MAIL	chuansong	chuansong	FIGHTSTATE_OFF	Đấu trường Võ Lâm Liên Đấu
+24	taoyuanrukou	revive	chuansong	chuansong	FIGHTSTATE_ON|STALL_OFF|CHAT_OFF|LOGINREVOUT_OFF|PKMODEL_OFF|TEAM_OFF|PRAY_OFF	Thiên Lao - Đào Nguyên
+25	esportwait	revive|MAIL	chuansong	chuansong	FIGHTSTATE_OFF	Khu chuẩn bị thi đấu (Phi Tự Nhai)
+26	esport	ALL_ITEM	ALL_ITEM	ALL_ITEM		Thi đấu (Phi Tự Nhai)
+27	dragonboatwait	revive|MAIL	chuansong	chuansong	FIGHTSTATE_OFF	Khu chuẩn bị thi đấu (Thuyền rồng)
+28	dragonboat	ALL_ITEM	ALL_ITEM	ALL_ITEM		Thi đấu (Thuyền rồng)
+29	globalservermap		chuansong	chuansong	FIGHTSTATE_OFF	Anh Hùng Đô
+30	globalservermapshandong		chuansong	chuansong	FIGHTSTATE_ON	Thí Luyện Cốc
+31	youlongmishi		chuansong	chuansong		Du Long Các
+32	common_fb		chuansong	chuansong	FIGHTSTATE_ON	Phó bản sư đồ
+33	jiehun_fb		chuansong	chuansong	FIGHTSTATE_OFF	Phó Bản Kết Hôn
+34	towerdefence	ALL_ITEM	ALL_ITEM	ALL_ITEM		Nấm đại chiến Cương Thi
+35	yulucun		chuansong		PKMODEL_OFF	Ngọc Lộ Thôn
+36	pingjia		chuansong	chuansong		Bản đồ đánh giá
+37	tongpkmap				TONG_PKMODEL_ON	Bản đồ buộc PK bang hội
+38	kinbattle		chuansong	chuansong	FIGHTSTATE_ON	Bản đồ gia tộc chiến
+39	kinbattlezhunbei		chuansong	chuansong	FIGHTSTATE_OFF	Khu chuẩn bị gia tộc chiến
+40	kuafubaihu	revive	chuansong	chuansong		

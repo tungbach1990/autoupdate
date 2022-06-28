@@ -1,0 +1,48 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	324,275	Binh Khí	12	yellow	yellowpoint.spr	324,263
+2	299,250	Phòng Cụ	12	yellow	yellowpoint.spr	299,238
+3	359,240	Trang Sức	12	yellow	yellowpoint.spr	359,228
+4	390,228	Thuốc	12	yellow	yellowpoint.spr	390,216
+5	433,246	Tạp Hóa	12	yellow	yellowpoint.spr	430,234
+6	369,302	Tửu Lầu	12	yellow	yellowpoint.spr	360,290
+7	361,340	Gỗ	12	yellow	yellowpoint.spr	361,323
+8	271,296	Da	12	yellow	yellowpoint.spr	271,284
+9	466,278	Tiền Trang	12	yellow	yellowpoint.spr	466,266
+10	459,250	Bao Vạn Đồng	12	yellow	yellowpoint.spr	465,238
+11	380,55	Diệp Chỉ Lâm	12	yellow	yellowpoint.spr	380,43
+12	379,269	Bạch Thu Lâm	12	yellow	yellowpoint.spr	370,257
+13	400,316	Long Ngũ Thái Gia	12	yellow	yellowpoint.spr	395,304
+14	241,215	Thiếu Lâm	12	yellow	yellowpoint.spr	241,203
+15	157,254	Thiên Vương	12	yellow	yellowpoint.spr	157,235
+16	192,262	Đường Môn	12	yellow	yellowpoint.spr	192,250
+17	173,292	Ngũ Độc	12	yellow	yellowpoint.spr	173,280
+18	122,306	Nga My	12	yellow	yellowpoint.spr	122,294
+19	106,328	Thúy Yên	12	yellow	yellowpoint.spr	106,316
+20	184,328	Cái Bang	12	yellow	yellowpoint.spr	184,316
+21	214,357	Thiên Nhẫn	12	yellow	yellowpoint.spr	214,345
+22	265,362	Võ Đang	12	yellow	yellowpoint.spr	265,350
+23	283,395	Côn Lôn	12	yellow	yellowpoint.spr	283,383
+24	261,120	Thành Đô Phủ	12	yellow	icon_northwest.spr	261,106
+25	107,214	Nga My Phái	12	yellow	icon_northwest.spr	107,200
+26	80,286	Đường Môn	12	yellow	icon_southwest.spr	80,272
+27	290,440	Trường Giang Hà Cốc [cấp 5]	12	yellow	icon_southeast.spr	290,426
+28	548,242	Dã Luyện Đại Sư	12	yellow	yellowpoint.spr	548,230
+29	448,376	Thuyền Phu	12	yellow	yellowpoint.spr	448,364
+30	424,300	Thủ Khố	12	yellow	yellowpoint.spr	420,288
+31	324,188	Thủ Khố	12	yellow	yellowpoint.spr	310,176
+32	392,174	Lễ Quan	12	yellow	yellowpoint.spr	392,162
+33	460,308	Xa Phu	12	yellow	yellowpoint.spr	463,296
+34	350,176	Xa Phu	12	yellow	yellowpoint.spr	353,164
+35	203,417	Thục Nam Trúc Hải [cấp 15]	12	yellow	icon_southwest.spr	203,403
+36	328,350	Đoàn Thị	12	yellow	yellowpoint.spr	328,338
+37	384,350	Minh Giáo	12	yellow	yellowpoint.spr	386,360
+38	411,267	Sứ Giả Hoạt Động	12	cyan	yellowpoint.spr	421,254
+39	328,222	Thương Nhân Đặc Sản	12	yellow	yellowpoint.spr	328,210
+40	622,282	Phong Đô Quỷ Thành [cấp 95]	12	yellow	icon_southeast.spr	622,268
+41	232,188	Truyền Tống Quân Doanh	12	yellow	yellowpoint.spr	232,176
+42	617,216	Tam Hiệp Sạn Đạo [cấp 105]	12	yellow	icon_northeast.spr	617,202
+43	510,200	Án Nhược Tuyết	12	yellow	yellowpoint.spr	510,190
+44	487,347	Tần Oa	12	yellow	yellowpoint.spr	487,335
+45	418,186	Gia tộc chiêu mộ sứ	12	yellow	yellowpoint.spr	432,174
+46	485,85	Hồng Di	12	yellow	yellowpoint.spr	462,73
+47	472,96	Nguyệt Lão 	12	yellow	yellowpoint.spr	472,84

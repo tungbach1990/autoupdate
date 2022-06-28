@@ -1,0 +1,17 @@
+Id	Name	TimeFrameDay	TimeFrameTime	ClassName	
+Từ khóa ID	Miêu tả danh hiệu	Server mở mấy ngày	Thời gian mở (giờ mở)	Loại	
+1	Mở cấp 69	0	2000	OpenLevel69	
+2	Mở cấp 79	0	2000	OpenLevel79	
+3	Mở cấp 89	0	2000	OpenLevel89	
+4	Mở cấp 99	0	2000	OpenLevel99	
+5	Mở boss thế giới cấp 55 (1 ngày sau khi mở server)	3	0	OpenBoss55	
+6	Mở boss thế giới cấp 75 (2 ngày sau khi mở cấp 79)	5	0	OpenBoss75	
+7	Mở boss thế giới cấp 95 (2 ngày sau khi mở cấp 99)	10	0	OpenBoss95	
+8	Mở cấp 150	0	2000	OpenLevel150	
+9	Đóng Bạch Hổ Đường (sơ) 2 (1 tuần sau khi mở cấp 99)	999	2000	CloseBaiHuTangChu2	
+10	Bạch Hổ Đường (cao) chỉ mở 1 trận (50 ngày sau khi mở cấp 99)	0	2000	OpenOneAdvBaiHuTang	
+11	Chiến trường Phượng Tường chỉ mở 1 trận (Sau khi mở cấp 150, 50 ngày sau)	0	2000	OpenOneFengXiangBattle	
+12	Mở nhiệm vụ Tiêu Dao Cốc (7 ngày sau khi mở cấp 79)	0	0	OpenXoyoGameTask	
+13	Mở boss thế giới cấp 120 (20 ngày sau khi mở cấp 150)	0	0	OpenBoss120	
+14	Mở Bạch Hổ Đường Hoàng Kim (20 ngày sau khi mở cấp 150)	0	0	OpenBaiHuTangGolden	
+15	Mở cấp 165	0	2000	OpenLevel165	

@@ -1,0 +1,8 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	0,0	ĐIỂM TẬP TRUNG	12	yellow	yellowpoint.spr	820,65
+2	0,0	GIAI ĐOẠN 1	18	red	yellowpoint.spr	500,630
+2	535,605	Hàn Vũ Từ Bình	12	yellow	yellowpoint.spr	550,590
+3	0,0	GIAI ĐOẠN 2	18	red	yellowpoint.spr	830,420
+2	775,455	Hàn Vũ Bảo Bình	12	yellow	yellowpoint.spr	780,465
+4	0,0	GIAI ĐOẠN 3	18	red	yellowpoint.spr	1020,290
+2	1020,320	Hàn Vũ Hoàng Bình	12	yellow	yellowpoint.spr	1020,330

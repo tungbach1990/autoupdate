@@ -1,0 +1,9 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	"734,666"	Đại Lý Phủ	12	yellow	icon_east.spr	"732,652"
+2	"712,172"	Nhĩ Hải Ma Nham [cấp 55]	12	yellow	icon_northeast.spr	"712,158"
+3	"440,89"	Thiên Long Tự [cấp 85]	12	yellow	icon_north.spr	"440,105"
+4	"212,158"	Hoàng Lăng Đoàn Thị [cấp 75]	12	yellow	yellowpoint.spr	"212,146"
+5	"0,0"	Tinh Binh Ô Bố Trại	18	red		"572,287"
+6	"0,0"	Tuần Thủ Ô Bố Trại	18	red		"590,686"
+7	"0,0"	Hắc Thủy Khinh Kỵ	18	red		"304,660"
+1	0,0	HẠT HUY HOÀNG	12	gold	yellowpoint.spr	152,480

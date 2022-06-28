@@ -1,0 +1,10 @@
+Step	Name	Genre	Detail	Particular	Level	Five	Num	Money	BindMoney
+Bước 	Tên miêu tả	Loại Đạo Cụ	Loại cụ thể	Loại chi tiết	Cấp	Ngũ hành	Số lượng	Bạc	Bạc khóa
+10	50 vạn Bạc khóa								500000
+10	Huyền Tinh cấp 6	18	1	114	6		2		
+20	100 vạn Bạc khóa								1000000
+20	Huyền Tinh cấp 6	18	1	114	7		3		
+30	50 vạn Bạc khóa								500000
+30	Huyền Tinh cấp 7	18	1	114	8		1		
+40	150 vạn Bạc khóa								1500000
+40	Huyền Tinh cấp 7	18	1	114	9		2		

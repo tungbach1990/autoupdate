@@ -1,0 +1,6 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	730,250	Đôn Hoàng Cổ Thành [cấp 105]	12	yellow	icon_east.spr	730,238
+2	710,516	Long Môn Trấn	12	yellow	icon_southeast.spr	710,502
+3	322,46	Gia Dụ Quan [cấp 95]	12	yellow	icon_northeast.spr	322,32
+4	347,637	Côn Lôn Phái	12	yellow	icon_south.spr	345,654
+1	0,0	HẠT HUY HOÀNG	12	gold	yellowpoint.spr	542,503

@@ -1,0 +1,10 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+24	825,475	Long Mạch Công Thành	18	purple	yellowpoint.spr	845,455
+24	500,490	ThanhLong	14	yellow	yellowpoint.spr	500,450
+24	825,322	HuyềnVũ	14	yellow	yellowpoint.spr	835,282
+24	1152,485	BạchHổ	14	yellow	yellowpoint.spr	1163,445
+24	824,650	ChuTước	14	yellow	yellowpoint.spr	835,608
+24	510,320	Cổng 1	14	yellow	icon_southeast.spr	520,305
+24	1140,320	Cổng 2	14	yellow	icon_southwest.spr	1155,305
+24	1147,660	Cổng 3	14	yellow	icon_northwest.spr	1163,675
+24	515,650	Cổng 4	14	yellow	icon_northeast.spr	530,660

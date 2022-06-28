@@ -1,0 +1,34 @@
+﻿Index	Name	Id	DuiHuan	Useful	AutoUse									
+1	Huyền tinh (cấp 8)	"18,1,114,8"	1	1	0									
+2	Huyền tinh (cấp 8)	"18,1,114,8"	1	1	0									
+3	Huyền tinh (cấp 8)	"18,1,114,8"	1	1	0									
+4	Huyền tinh (cấp 8)	"18,1,114,8"	1	1	0									
+5	Huyền tinh (cấp 8)	"18,1,114,8"	1	1	0									
+6	Huyền tinh (cấp 10)	"18,1,114,10"	1	1	0									
+7	Huyền tinh (cấp 9)	"18,1,114,9"	1	1	0									
+8	Huyền tinh (cấp 7)	"18,1,114,7"	1	1	0									
+9	Huyền tinh (cấp 8)	"18,1,114,8"	1	1	0									
+10	Huyền tinh (cấp 8)	"18,1,114,8"	1	1	0									
+11	Thái Vân Truy Nguyệt	"18,1,464,1"	1	1	0									
+12	Thương Hải Nguyệt Minh	"18,1,465,1"	1	1	0									
+13	Huyền tinh (cấp 7)	"18,1,114,7"	1	1	0									
+14	Huyền tinh (cấp 7)	"18,1,114,7"	1	1	0									
+15	Lb chúc phúc sơ (khóa)	"18,1,212,1"	0	1	0									
+16	Bản đồ bí cảnh	"18,1,251,1"	0	1	0									
+17	Đĩnh vàng du long	"18,1,527,2"	0	1	0									
+18	Huyền tinh (cấp 5)	"18,1,114,5"	1	1	0									
+19	Bách luyện hoàn (khóa)	"18,1,468,1"	0	1	0									
+20	Huyền tinh (cấp 6)	"18,1,114,6"	1	1	0									
+21	Linh chi tục mệnh hoàn-rương	"18,1,241,1"	0	1	0									
+22	Lục thao tập chú	"18,1,320,2"	1	1	0									
+23	Thùng rượu (50 bình)	"18,1,189,2"	0	1	0									
+24	Trứng du long	"18,1,525,1"	1	1	0									
+25	Du long uy danh lệnh	"18,1,528,1"	0	1	0									
+26	Càn khôn phù	"18,1,85,1"	0	1	0									
+27	Huyền tinh (cấp 5)	"18,1,114,5"	1	1	0									
+28	Huyền tinh (cấp 5)	"18,1,114,5"	1	1	0									
+29	Huyền tinh (cấp 5)	"18,1,114,5"	1	1	0									
+30	Du long tu luyện phù	"18,1,526,1"	0	1	0									
+31	Tiền du long	"18,1,527,1"	1	1	0									
+32	Huyền tinh (cấp 5)	"18,1,114,5"	1	1	0									
+33	Huyền tinh (cấp 5)	"18,1,114,5"	1	1	0									

@@ -1,0 +1,8 @@
+ID	IconPosition	Text	Size	Color	Icon	TextPosition
+1	"77,405"	Đại Tán Quan [cấp 55]	12	yellow	icon_west.spr	"77,393"
+2	"426,766"	Kiếm Môn Quan [cấp 85]	12	yellow	icon_south.spr	"426,752"
+3	"870,66"	Hoa Sơn [cấp 95]	12	yellow	icon_northeast.spr	"870,52"
+4	"910,659"	Vĩnh Lạc Trấn	12	yellow	icon_southeast.spr	"910,647"
+5	"77,75"	Tây Hạ Nhất Phẩm Đường	12	yellow	icon_northwest.spr	"75,60"
+6	"0,0"	Tần Lăng	12	yellow		"866,187"
+1	0,0	HẠT HUY HOÀNG	12	gold	yellowpoint.spr	317,521

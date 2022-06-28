@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\bin\Release\Autoupdate.exe.config
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\bin\Release\Autoupdate.exe
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\bin\Release\Autoupdate.pdb
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\obj\Release\Autoupdate.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\obj\Release\Autoupdate.FormAutoupdate.resources
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\obj\Release\Autoupdate.FormConfig.resources
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\obj\Release\Autoupdate.Properties.Resources.resources
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\obj\Release\Autoupdate.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\obj\Release\Autoupdate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\obj\Release\Autoupdate.exe
+C:\Users\Admin\Desktop\Soucre_Autoupdate_Sale12\Soucre_Autoupdate_Sale\Autoupdate_New_Vesion\Autoupdate\obj\Release\Autoupdate.pdb
